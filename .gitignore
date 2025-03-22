@@ -1,0 +1,5 @@
+venv/
+*.pt
+fine_tuned_distilgpt2/
+__pycache__/
+*.pyc
