@@ -9,8 +9,8 @@ A lightweight Generative AI model fine-tuned with LoRA on DistilGPT-2 to generat
 
 ## Features
 - Fine-tuned DistilGPT-2 with LoRA for edge efficiency (~0.03% trainable parameters).
-- Custom deep learning sentiment classifier (PyTorch) with X% accuracy (replace X with your result).
-- Inference time: ~Y seconds on CPU (replace Y with your benchmark).
+- Custom deep learning sentiment classifier (PyTorch) with 90% accuracy from 60% prior early training.
+- Inference time: 0.696 seconds on CPU.
 
 ## Sample Output
 Prompt: "I’m upset about my order."
